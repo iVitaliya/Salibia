@@ -1,4 +1,9 @@
+# Bash Files
+[*.sh]
+end_of_line = lf
+insert_final_newline = true
 
+# C# Files
 [*.{cs,vb}]
 #### Naming styles ####
 
